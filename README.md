@@ -1,6 +1,6 @@
 # Geometry Dash Diamond: Emerald Edition
 
-Geometry Dash Diamond: Emerald Edition (GDDEE for short) is a Geometry Dash clone/recreation/fangame made in Godot. It intends on recreating the rhythm-based platformer Geometry Dash as closely as possible while still keeping it distinct from the real game. also it will have a native linux build this is very important because the real gd doesnt
+Geometry Dash Diamond: Emerald Edition (GDDEE for short) is a Geometry Dash clone/recreation/fangame made in Godot. also it will have a native linux build this is very important because the real gd doesnt
 ## Questions some people could have but idk actually
 
 ### What does the "Emerald Edition" part mean?
